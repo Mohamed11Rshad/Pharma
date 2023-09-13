@@ -1,8 +1,11 @@
-# Pharma
+
+<p align="center">
+  <img src="https://github.com/Mohamed11Rshad/Data/blob/main/Pharma/pharma%20logo.png" alt="Pharma Logo" />
+</p>
+
+# <p align="center">Pharma</p>
 
 Pharma is a Java-based Android application designed to help users manage their medication schedules efficiently. This offline app utilizes various Android components such as Alarm Manager, SQLite database, Services, Broadcast Receiver, and Notifications to provide a seamless medication management experience.
-
-![Medicine Reminder](https://github.com/YourUsername/YourRepository/blob/main/screenshots/medicine_reminder.png)
 
 - **Medicine Selection**: Choose medicines from a pre-defined list provided by the app.
 - **Customized Dose**: Set the dose for each selected medicine based on the provided instructions or doctor's recommendations.
@@ -16,8 +19,8 @@ Pharma is a Java-based Android application designed to help users manage their m
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/YourUsername/YourRepository/blob/main/screenshots/screenshot1.png)
-![Screenshot 2](https://github.com/YourUsername/YourRepository/blob/main/screenshots/screenshot2.png)
+![Screenshot 1](https://github.com/Mohamed11Rshad/Data/blob/main/Pharma/1.jpg)
+![Screenshot 2](https://github.com/Mohamed11Rshad/Data/blob/main/Pharma/2.jpg)
 
 ## Usage
 
